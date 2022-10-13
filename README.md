@@ -1,1 +1,1 @@
-# DME
+# Temporal medical subject embedding
