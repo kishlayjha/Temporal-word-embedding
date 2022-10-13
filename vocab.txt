@@ -1,0 +1,117 @@
+chemosterilants	0:20
+sterilization, reproductive	1:74
+urologic surgical procedures, male	2:26
+vasectomy	3:26
+therapeutics	4:72
+gynecologic surgical procedures	5:38
+general surgery	6:72
+sterilization, tubal	7:38
+electrocoagulation	8:20
+family planning services	9:80
+clinical laboratory techniques	10:70
+semen	11:56
+epididymis	12:34
+sex distribution	13:46
+testis	14:34
+ovum	15:30
+research	16:124
+reproductive techniques	17:46
+sex factors	18:46
+ovulation detection	19:30
+spermatozoa	20:34
+demography	21:130
+menstruation	22:48
+genitalia, male	23:56
+genitalia, female	24:64
+sperm transport	25:46
+germ cells	26:34
+sex ratio	27:46
+biology	28:142
+insemination, artificial	29:46
+animals, laboratory	30:72
+physiology	31:134
+diagnosis	32:78
+infertility	33:52
+population characteristics	34:112
+seminal vesicles	35:56
+population	36:130
+ovary	37:56
+sex preselection	38:46
+genitalia	39:100
+menstrual cycle	40:30
+urogenital system	41:100
+corpus luteum	42:62
+reproduction	43:156
+ovulation	44:66
+history, 16th century	45:30
+history, 15th century	46:30
+urban population	47:30
+cities	48:30
+local government	49:30
+history, medieval	50:30
+water supply	51:30
+sanitation	52:30
+baths	53:30
+preventive health services	54:30
+hygiene	55:30
+environmental restoration and remediation	56:30
+urban health	57:30
+europe	58:30
+public health	59:30
+americas	60:72
+pregnancy in adolescence	61:50
+fertility	62:50
+united states	63:40
+infant mortality	64:40
+health personnel	65:50
+sexual behavior	66:50
+north america	67:72
+health services	68:72
+midwifery	69:50
+ethnic groups	70:50
+latin america	71:50
+maternal-child health centers	72:40
+maternal health services	73:40
+pregnancy	74:116
+health	75:72
+primary health care	76:40
+indians, north american	77:50
+medicine	78:50
+developed countries	79:40
+new york	80:40
+population dynamics	81:72
+mexico	82:50
+plants, medicinal	83:50
+developing countries	84:50
+lactation	85:48
+culture	86:50
+community health workers	87:50
+mortality	88:40
+delivery of health care	89:72
+in vitro techniques	90:22
+vagina	91:22
+fetus	92:22
+uterus	93:18
+menstruation disturbances	94:18
+disease	95:48
+animals	96:36
+castration	97:36
+age factors	98:36
+neoplasms	99:36
+mice	100:36
+genetics	101:44
+postpartum period	102:16
+body temperature	103:16
+sterilization reversal	104:32
+pilot projects	105:32
+eugenics	106:14
+follow-up studies	107:30
+fallopian tubes	108:40
+evaluation studies as topic	109:30
+abortion, induced	110:10
+abortifacient agents	111:10
+$$TOTAL$$	112:2
+endoscopy	113:12
+hysteroscopy	114:12
+physical examination	115:12
+endometrial neoplasms	116:12
